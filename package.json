@@ -1,0 +1,55 @@
+{
+  "name": "jaan-pehchan-server",
+  "version": "1.0.0",
+  "description": "This is used to set up the backend for Jaan Pehchan",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "nodemon index.js",
+    "start": "node index.js",
+    "preinstall": "npx npm-force-resolutions"
+  },
+  "resolutions": {
+    "graceful-fs": "^4.2.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Beyond-Design-Studio/jaan-pehchan-server.git"
+  },
+  "author": "Aarav Varshney",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Beyond-Design-Studio/jaan-pehchan-server/issues"
+  },
+  "homepage": "https://github.com/Beyond-Design-Studio/jaan-pehchan-server#readme",
+  "engines": {
+    "node": "v14.15.0",
+    "npm": "6.14.8"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "errorhandler": "^1.5.1",
+    "express": "^4.17.1",
+    "hat": "0.0.3",
+    "install": "^0.13.0",
+    "lodash": "^4.17.21",
+    "md5": "^2.2.1",
+    "method-override": "^3.0.0",
+    "mocha": "^7.2.0",
+    "moment": "^2.26.0",
+    "morgan": "^1.10.0",
+    "nconf": "^0.10.0",
+    "neo4j-driver": "^4.3.1",
+    "neo4j-driver-core": "^4.3.1",
+    "node": "^16.6.1",
+    "node-uuid": "^1.4.8",
+    "pug": "^3.0.1",
+    "randomstring": "^1.1.5",
+    "razorpay": "^2.0.6",
+    "serve-favicon": "^2.5.0",
+    "should": "^13.2.3",
+    "swagger-jsdoc": "^4.0.0",
+    "swagger-ui-express": "^4.1.4"
+  }
+}
