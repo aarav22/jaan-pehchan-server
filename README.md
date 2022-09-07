@@ -78,7 +78,7 @@ Backend for Jaan Pehchan App. Uses Node.js, Express.js and Neo4j.
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<img src="images/app_img.jpeg" alt="loading-img" width="300"/>
 
 This repo only contains the backend to authenticate users using OTPs provided by Firebase Auth. Once the users have logged in, with permission we upload their selected contacts who are then invited to join the platform as well. These invitees become the direct contacts of the user.
 
@@ -86,7 +86,7 @@ Once the users have onboarded, their relationship to each product (uploaded by t
 
 
 ### Architecture
-[![arch-img]](#)
+<img src="images/graph_img.jpeg" alt="graph-img" width="400"/>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -130,11 +130,13 @@ To get a local copy up and running follow these simple example steps.
 
 <!-- USAGE EXAMPLES -->
 ## Images
-[![product shot 1][product-shot-1]](#)
-[![product shot 2][product-shot-2]](#)
-[![product shot 3][product-shot-3]](#)
-[![product shot 4][product-shot-4]](#)
+<!-- [![product shot 1][product-shot-1]](#) -->
+<img src="images/loading_img.png" alt="loading-img" width="200"/>
+<img src="images/otp_img.png" alt="otp-img" width="200"/>
+<img src="images/gallery_img.png" alt="gallery-img" width="200"/>
 
+<!-- [![product shot 3][product-shot-3]](#)
+[![product shot 4][product-shot-4]](#) -->
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
