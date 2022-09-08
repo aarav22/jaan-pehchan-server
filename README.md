@@ -31,7 +31,7 @@ Backend for Jaan Pehchan App. Uses Node.js, Express.js and Neo4j.
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Trading App</h3>
+<h3 align="center">Jaan Pehchan</h3>
 
   <p align="center">
     Jaan Pehchan is cross-native app developed in React Native. Jaan Pehchan aims to build a social network for the Micro, Small and Medium Enterprises. This repository only contains the backend used by the app.
